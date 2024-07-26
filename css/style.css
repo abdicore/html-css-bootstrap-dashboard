@@ -10,6 +10,17 @@ a {
     max-height: 50px;
 }
 
+.bx {
+    height: 500px;
+    background-color: blue;
+
+}
+
+.bx-sm {
+    height: 500px;
+    background-color: red;
+
+}
 .bg-header {
     background-color: #212529;
 }
