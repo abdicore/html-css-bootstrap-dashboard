@@ -16,6 +16,12 @@ a {
 
 }
 
+.border-icon {
+    border: 2px solid black;
+    padding: 2px;
+    border-radius: 3px;
+}
+
 .bx-sm {
     height: 500px;
     background-color: red;
